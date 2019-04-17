@@ -1,0 +1,28 @@
+
+		
+		.Outline { border:5px solid lightgray;
+			}
+		
+		hr {width: 83%; size: 10px; }
+
+		section{width: 90%; padding: 10px;}
+
+		h1#header {text-align: center;}
+		body {background-color:#444444;}  
+		
+		h1 {color: white; margin-left: 60px}
+		p {color: white; sty}
+		ul {color: white;}
+		a {color: mediumaquamarine; }
+		ul#AboutMe li{display: inline;}
+		ul#AboutMe {text-align: center; }
+		ul#FooterLinks li{display: inline;}
+		ul#FooterLinks {text-align: center;}
+
+		img { float: right; padding: 5px; border-color: darkgray; margin-left: 15px;
+			}
+		.item {margin-left: 60px}
+
+		
+       
+	
